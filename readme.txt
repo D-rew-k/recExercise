@@ -1,3 +1,1 @@
 Tester file
-Hello 
-Yes
